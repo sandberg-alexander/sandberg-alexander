@@ -4,7 +4,7 @@
   ### MSc Cybernetics and Robotics student at NTNU, Trondheim
 
 </div>
-Connect with me at: alexander@sandberg-oslo.no  
+Connect with me at: **alexander@sandberg-oslo.no**
 
 #
 
