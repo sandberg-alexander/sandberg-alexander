@@ -5,7 +5,7 @@
 
 </div>
 
-My name is Alexander and I am currently doing my master's degree in cybernetics and robotics at NTNU, Trondheim. My main profile is autonomous systems and I am currently writing my project thesis on development and implementaion of Explainable Artificial Intelligence (XAI) methods capable of generating causal explanations for the actions of a Reinforcment Learning (RL) agent. The following master's thesis will likely build upon implementing the methods on real cyber-physical systems.
+My name is Alexander and I am currently doing my master's degree in cybernetics and robotics at NTNU, Trondheim. My main profile is autonomous systems and I am currently writing my project thesis on development and implementaion of Explainable Artificial Intelligence (XAI) methods, capable of generating causal explanations for the actions of a Reinforcment Learning (RL) agent. The following master's thesis will likely build upon implementing the methods on real cyber-physical systems.
 
 <!--
 **sandberg-alexander/sandberg-alexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
