@@ -1,13 +1,13 @@
-<h1 align="center">Hi there 👋</h1>
-<h3 align="center">MSc Cybernetics and Robotics student at NTNU, Trondheim</h3>
+<h3>👋 Hi, I'm Alexander Sandberg</h3>
 
-<br>
-    
-Connect with me at: **alexander@sandberg-oslo.no**
+💡 **Cybernetics & Robotics Engineer | AI & Autonomous Systems Enthusiast**  
 
-<br>
+I’m an aspiring engineer passionate about **AI-driven automation, robotics, and cyber-physical systems**. Currently completing my **MSc in Cybernetics and Robotics at NTNU**, I focus on developing intelligent, autonomous solutions—from deploying AI agents on real vessels to integrating AI in real-time decision-making.  
 
-My name is Alexander and I am currently doing my master's degree in cybernetics and robotics at NTNU, Trondheim. My main profile is autonomous systems and I am writing my project thesis on development and implementaion of Explainable Artificial Intelligence (XAI) methods, capable of generating causal explanations for the actions of a Reinforcment Learning (RL) agent. The following master's thesis will likely build upon implementing the methods on real cyber-physical systems.
+🔧 **Tech Stack:** Python, C++, Golang, Assembly, MATLAB, ROS/ROS2, Linux, Git, Containerization  
+🚀 **Projects:** AI-powered robotics, embedded systems, and automation solutions  
+🌍 **Background:** Diverse experience in engineering, military leadership, film, and service industries  
 
+I love solving **complex problems with smart solutions**—let’s build something awesome!  
 
-
+📫 **Get in touch:** alexander@sandberg-oslo.no  
